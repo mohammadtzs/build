@@ -1,5 +1,5 @@
 # OP-TEE build.git
-
+.
 This git contains makefiles etc to be able to build a full OP-TEE developer
 setup for the OP-TEE project.
 
